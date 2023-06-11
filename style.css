@@ -1,0 +1,14 @@
+.body_background{
+    background-image:url("Untitled design.jpg") ;
+    
+    background-size: cover;
+}
+
+#ooty{
+    background-color: wheat;
+    border-radius: 10px;
+    border-top: 10px solid black;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
